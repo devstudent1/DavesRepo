@@ -5,7 +5,7 @@ class Person {
 
     void speak() {
         for (int i = 0; i < 3; i++) {
-            System.out.println("my name is: " + name + " and i am " + age + " years old");
+            System.out.println("my name is: " + name);
         }
     }
 
@@ -13,6 +13,7 @@ class Person {
         System.out.println("Hello there!");
     }
 }
+
 
 public class Classes {
 
